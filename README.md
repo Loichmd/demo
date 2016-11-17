@@ -1,2 +1,2 @@
 # demo
-Une première démo
+Une première démo de GitHub pour débuter
